@@ -188,7 +188,7 @@ footer{
     grid-template-columns: 1fr 1fr;
     align-items: center;
     font-size: 12px;
-    background-color: #ffffff;
+    background-color:#e4eaf3;
     border-top: 1px solid #f6f6f6;
 }
 
@@ -211,3 +211,5 @@ footer ul li a {
     margin: 10px;
     color: #5f6368;
 }
+
+
